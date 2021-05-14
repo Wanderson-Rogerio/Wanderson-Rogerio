@@ -20,7 +20,6 @@
 I'm a passionate self-taught FullStack Developer from Brazil.
 
 - 🔭 I’m currently working on Typescript/React/Node Projects
-- 🌱 I’m currently learning Typescript
 - 👋🏻 Feel free to get in touch!
 
 **Languages and Tools:**
