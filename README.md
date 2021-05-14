@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Wanderson, a passionate self-taught FullStack Developer from Brazil.
+I'm a passionate self-taught FullStack Developer from Brazil.
 
 - 🔭 I’m currently working on Typescript/React/Node Projects
 - 🌱 I’m currently learning Typescript
