@@ -1,16 +1,16 @@
 ### Hi there, I'm Wanderson.
 
-<img align="right" width="300px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/bio-img.svg" />
+<img align="right" width="300px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/bio-img.svg" />
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wanderson-rog%C3%A9rio-4a0638171/">
-  <img align="left" alt="Wanderson - Linkedin" width="20px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/linkedin-round.svg" />
+  <img align="left" alt="Wanderson - Linkedin" width="20px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/linkedin-round.svg" />
 </a>
 <a href="https://discord.com/channels/842794889380233246">
-  <img align="left" alt="Wanderson - Discord" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/discord-round.svg" />
+  <img align="left" alt="Wanderson - Discord" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/discord-round.svg" />
 </a>
 <a href="mailto:wandersonrg@gmail.com">
-  <img align="left" alt="Wanderson - E-mail" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/email-round.svg" />
+  <img align="left" alt="Wanderson - E-mail" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/email-round.svg" />
 </a>
 </p>
 
@@ -26,10 +26,10 @@ Hi, I'm Wanderson, a passionate self-taught FullStack Developer from Brazil.
 **Languages and Tools:**
 
 <p align="left">
-<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/main/assets/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/nodejs.png"></code>
 </p>
 <br />
 
