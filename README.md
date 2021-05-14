@@ -36,5 +36,5 @@ Hi, I'm Wanderson, a passionate self-taught FullStack Developer from Brazil.
 <img
 align="left"
 height="165"
-src="https://github-readme-stats.vercel.app/api?username=Wanderson-Rogerio&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1"/>
+src="https://github-readme-stats.vercel.app/api?username=Wanderson-Rogerio&count_private=true&show_icons=true&custom_title=Wanderson%20R.%20GitHub%20Stats&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1"/>
 <a>
