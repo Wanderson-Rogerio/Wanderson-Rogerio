@@ -9,7 +9,7 @@
 <a href="https://discord.com/channels/842794889380233246">
   <img align="left" alt="Wanderson - Discord" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/discord-round.svg" />
 </a>
-<a href="mailto:wandersonrg@gmail.com">
+<a href="mailto:s.wandersonrg@gmail.com">
   <img align="left" alt="Wanderson - E-mail" width="21px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/email-round.svg" />
 </a>
 </p>
