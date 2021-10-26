@@ -1,6 +1,12 @@
 ### Hi there, I'm Wanderson.
 
+I'm a passionate self-taught FullStack Developer from Brazil.
 
+- 🔭 I’m currently working on Typescript/React/Node Projects
+- 👋🏻 Feel free to get in touch!
+
+
+<br />
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wanderson-rog%C3%A9rio-4a0638171/">
@@ -15,12 +21,6 @@
 </p>
 
 <br />
-<br />
-
-I'm a passionate self-taught FullStack Developer from Brazil.
-
-- 🔭 I’m currently working on Typescript/React/Node Projects
-- 👋🏻 Feel free to get in touch!
 
 **Languages and Tools:**
 
@@ -30,4 +30,3 @@ I'm a passionate self-taught FullStack Developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/nodejs.png"></code>
 </p>
-<br />
