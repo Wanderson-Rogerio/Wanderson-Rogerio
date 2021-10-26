@@ -5,9 +5,6 @@ I'm a passionate self-taught FullStack Developer from Brazil.
 - 🔭 I’m currently working on Typescript/React/Node Projects
 - 👋🏻 Feel free to get in touch!
 
-
-<br />
-
 <p align="left">
 <a href="https://www.linkedin.com/in/wanderson-rog%C3%A9rio-4a0638171/">
   <img align="left" alt="Wanderson - Linkedin" width="20px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/linkedin-round.svg" />
