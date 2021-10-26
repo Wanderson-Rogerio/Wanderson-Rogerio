@@ -1,6 +1,6 @@
 ### Hi there, I'm Wanderson.
 
-<img align="right" width="300px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/bio-img.svg" />
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wanderson-rog%C3%A9rio-4a0638171/">
@@ -31,9 +31,3 @@ I'm a passionate self-taught FullStack Developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/nodejs.png"></code>
 </p>
 <br />
-
-<img
-align="left"
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Wanderson-Rogerio&count_private=true&show_icons=true&custom_title=Wanderson%20R.%20GitHub%20Stats&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1"/>
-<a>
