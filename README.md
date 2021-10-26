@@ -18,6 +18,7 @@ I'm a passionate self-taught FullStack Developer from Brazil.
 </p>
 
 <br />
+<br />
 
 **Languages and Tools:**
 
