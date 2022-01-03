@@ -6,7 +6,7 @@ I'm a passionate self-taught FullStack Developer from Brazil.
 - 👋🏻 Feel free to get in touch!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wanderson-rog%C3%A9rio-4a0638171/">
+<a href="https://www.linkedin.com/in/wanderson-r-4a0638171/">
   <img align="left" alt="Wanderson - Linkedin" width="20px" src="https://raw.githubusercontent.com/wanderson-rogerio/wanderson-rogerio/master/assets/linkedin-round.svg" />
 </a>
 <a href="https://discord.com/channels/842794889380233246">
