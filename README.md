@@ -6,7 +6,7 @@
  <h1>Olá, meu nome é Wanderson</h1>
 </div>
 
- <h1 style="border-bottom: none;">Sobre mim</h1>
+ ## Sobre mim
 
 - 💻 Atuando com NestJS, TypeScript, TypeORM, MySQL, Jest.
 - 🌱 Sempre evoluindo dentro da esfera JavaScript (Biblioteca, Framework).
